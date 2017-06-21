@@ -15,6 +15,9 @@ var commands = {
 				console.log(i+1+". "+tweets[i].text+"  (Created: "+tweets[i].created_at+")\n");
 			}
 		});
+	},
+	"spotify-this-song":function(){
+		
 	}
 }
 
